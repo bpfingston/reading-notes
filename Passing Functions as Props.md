@@ -51,3 +51,7 @@
         -  by using "this.props", if the parent was called prompt
         
         this.props.prompt() would invoke the parent from the child.
+
+## Things I want to know more about
+
+    1. I want to learn to more how props work within React.
