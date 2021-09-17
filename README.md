@@ -6,3 +6,4 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  1.[Introduction to React and Components](https://bpfingston.github.io/reading-notes/Introduction_to_React_and_Components)  
  2.[Passing Functions as Props](https://bpfingston.github.io/reading-notes/Passing_Functions_as_Props)  
  3.[React and Forms](https://bpfingston.github.io/reading-notes/React_and_Forms)
+ 4.[Putting it all together](https://bpfingston.github.io/reading-notes/Putting_it_all_together)
