@@ -9,3 +9,4 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  5.[Putting it all together](https://bpfingston.github.io/reading-notes/Putting_it_all_together)  
  6.[NODE.JS](https://bpfingston.github.io/reading-notes/NODEJS)  
  7.[REST](https://bpfingston.github.io/reading-notes/REST)  
+ 8.[APIs](https://bpfingston.github.io/reading-notes/APIs)  
