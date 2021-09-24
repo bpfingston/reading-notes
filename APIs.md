@@ -29,4 +29,4 @@
 ## RegExr
 
     1.  How would you match your name using RegEx?  
-        -([A-Z][a-z]*) (the asterisk repeats the code before it unlimited times to match whatever string you are passing.)  
+        -/^Bryce$|^Daniel$|^Pfingston$([A-Z][a-z]*) (the asterisk repeats the code before it unlimited times to match whatever string you are passing.)  
