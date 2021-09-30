@@ -13,3 +13,4 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  10.[In memory storage](https://bpfingston.github.io/reading-notes/In_memory_storage)
  11.[Mongo and Mongoose](https://bpfingston.github.io/reading-notes/Mongo_and_Mongoose)
  12.[CRUD](https://bpfingston.github.io/reading-notes/CRUD)
+ 14.[Authentication](https://bpfingston.github.io/reading-notes/Authentication)
