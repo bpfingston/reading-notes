@@ -8,7 +8,7 @@
    2.Provide links to 3 services or tools that allow you to “mock” an API for development like json-server  
         1. MockServer
         2. Nock
-        3. Apigee  
+        3. Apigee\
    3.Compare and contrast Swagger and APIDoc.js 
         - Swagger: It is a free cloud-based API testing and documentation tool to simplify the validation of any API and generate its corresponding OpenAPI documentation.
         - ApiDoc: it creates a documentation from API annotations in the source code. It includes a default template which uses handlebars, Bootstrap, RequireJS and jQuery for the output of the generated api_data.js and api_project.js as a html-page.
