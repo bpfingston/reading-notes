@@ -5,13 +5,16 @@
    1. Whats the difference between `Put` and `Patch`?  
         -`Put` is used for creating a new resourse and replacing the old one.  
         -`Patch` is used to modify or update and resource.  
+        
    2.Provide links to 3 services or tools that allow you to “mock” an API for development like json-server  
         1. MockServer
         2. Nock
         3. Apigee\
+        
    3.Compare and contrast Swagger and APIDoc.js 
         - Swagger: It is a free cloud-based API testing and documentation tool to simplify the validation of any API and generate its corresponding OpenAPI documentation.
         - ApiDoc: it creates a documentation from API annotations in the source code. It includes a default template which uses handlebars, Bootstrap, RequireJS and jQuery for the output of the generated api_data.js and api_project.js as a html-page.  
+        
    4 Which HTTP status codes should be sent with each type of (un)successful API call?
         1. `400` - Bad Request
         2. `401` - Unauthorized
@@ -21,6 +24,7 @@
         6. `409` - Conflict 
         7. `500` - internal Sever Error
         8. `503` - Service Unavailable
+        
    5. Compare and contrast SOAP and ReST
         - SOAP: (Simple Object Access Protocol) is a standards-based web services access protocol that has been around for a long time. Originally developed by Microsoft, SOAP isn’t as simple as the acronym would suggest.
             - Works well in distributed enterprise environments
@@ -30,6 +34,7 @@
             - REST requires use of HTTP
             - Smaller learning curve
             - Fast and Efficient
+ 
 ## Vocabulary Terms
 
    1. Terms:
