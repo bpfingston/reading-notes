@@ -7,9 +7,9 @@
         -`Patch` is used to modify or update and resource.  
         
    2. Provide links to 3 services or tools that allow you to “mock” an API for development like json-server?  
-        - MockServer.  
-        - Nock.  
-        - Apigee.
+        - [MockServer](https://www.mock-server.com/)  
+        - [Nock](https://github.com/nock/nock)  
+        - [Apigee](https://cloud.google.com/apigee)
         
    3. Compare and contrast Swagger and APIDoc.js 
         - Swagger: It is a free cloud-based API testing and documentation tool to simplify the validation of any API and generate its corresponding OpenAPI documentation.
