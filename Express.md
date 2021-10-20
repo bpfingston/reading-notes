@@ -13,7 +13,7 @@
         
    3.Compare and contrast Swagger and APIDoc.js 
         - Swagger: It is a free cloud-based API testing and documentation tool to simplify the validation of any API and generate its corresponding OpenAPI documentation.
-        - ApiDoc: it creates a documentation from API annotations in the source code. It includes a default template which uses handlebars, Bootstrap, RequireJS and jQuery for the output of the generated api_data.js and api_project.js as a html-page.  
+        - ApiDoc: it creates a documentation from API annotations in the source code. It includes a default template which uses handlebars, Bootstrap, RequireJS and jQuery for                     the output of the generated api_data.js and api_project.js as a html-page.  
         
    4 Which HTTP status codes should be sent with each type of (un)successful API call?
         1. `400` - Bad Request
