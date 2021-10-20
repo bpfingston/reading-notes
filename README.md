@@ -14,7 +14,8 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  11.[Mongo and Mongoose](https://bpfingston.github.io/reading-notes/Mongo_and_Mongoose)  
  12.[CRUD](https://bpfingston.github.io/reading-notes/CRUD)  
  14.[Authentication](https://bpfingston.github.io/reading-notes/Authentication)  
-
-## Code 401 - Intermediate Software Development - Advanced Software Development in Full-Stack JavaScript
- 00.[PreWork401](https://bpfingston.github.io/reading-notes/PreWork)
- 01.[Node-Ecosystem](https://bpfingston.github.io/reading-notes/Node-Ecosystem)
+  
+## Code 401 - Intermediate Software Development - Advanced Software Development in Full-Stack JavaScript  
+ 00.[PreWork401](https://bpfingston.github.io/reading-notes/PreWork)  
+ 01.[Node-Ecosystem](https://bpfingston.github.io/reading-notes/Node-Ecosystem)  
+ 02.[Express](https://bpfingston.github.io/reading-notes/Express)  
