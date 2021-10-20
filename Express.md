@@ -26,11 +26,11 @@
         8. `503` - Service Unavailable  
         
    5. Compare and contrast SOAP and ReST
-        - SOAP: (Simple Object Access Protocol) is a standards-based web services access protocol that has been around for a long time. Originally developed by Microsoft, SOAP isn’t as simple as the acronym would suggest.
+        - SOAP: (Simple Object Access Protocol) is a standards-based web services access protocol that has been around for a long time. Originally developed by Microsoft, SOAP                    isn’t as simple as the acronym would suggest.
             - Works well in distributed enterprise environments
             - Standardized
             - SOAP uses XML for all messages
-        - REST: (Representational State Transfer) is another standard, made in response to SOAP’s shortcomings. It seeks to fix the problems with SOAP and provide a simpler method of accessing web services.
+        - REST: (Representational State Transfer) is another standard, made in response to SOAP’s shortcomings. It seeks to fix the problems with SOAP and provide a simpler                       method of accessing web services.
             - REST requires use of HTTP
             - Smaller learning curve
             - Fast and Efficient
