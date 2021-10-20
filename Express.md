@@ -6,16 +6,16 @@
         -`Put` is used for creating a new resourse and replacing the old one.  
         -`Patch` is used to modify or update and resource.  
         
-   2.Provide links to 3 services or tools that allow you to “mock” an API for development like json-server?  
+   2. Provide links to 3 services or tools that allow you to “mock” an API for development like json-server?  
         - MockServer.  
         - Nock.  
         - Apigee.
         
-   3.Compare and contrast Swagger and APIDoc.js 
+   3. Compare and contrast Swagger and APIDoc.js 
         - Swagger: It is a free cloud-based API testing and documentation tool to simplify the validation of any API and generate its corresponding OpenAPI documentation.
         - ApiDoc: it creates a documentation from API annotations in the source code. It includes a default template which uses handlebars, Bootstrap, RequireJS and jQuery for                     the output of the generated api_data.js and api_project.js as a html-page.  
         
-   4 Which HTTP status codes should be sent with each type of (un)successful API call?  
+   4. Which HTTP status codes should be sent with each type of (un)successful API call?  
         1. `400` - Bad Request  
         2. `401` - Unauthorized  
         3. `403` - Forbidden  
