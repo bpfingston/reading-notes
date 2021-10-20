@@ -6,9 +6,9 @@
         -`Put` is used for creating a new resourse and replacing the old one.  
         -`Patch` is used to modify or update and resource.  
         
-   2.Provide links to 3 services or tools that allow you to “mock” an API for development like json-server  
-        1. MockServer
-        2. Nock
+   2.Provide links to 3 services or tools that allow you to “mock” an API for development like json-server   
+        1. MockServer  
+        2. Nock  
         3. Apigee\
         
    3.Compare and contrast Swagger and APIDoc.js 
