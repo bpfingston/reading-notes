@@ -19,4 +19,5 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  00.[PreWork401](https://bpfingston.github.io/reading-notes/PreWork)  
  01.[Node-Ecosystem](https://bpfingston.github.io/reading-notes/Node-Ecosystem)  
  02.[Express](https://bpfingston.github.io/reading-notes/Express)  
- 03.[Express-REST-API](https://bpfingston.github.io/reading-notes/Express-REST-API)
+ 03.[Express-REST-API](https://bpfingston.github.io/reading-notes/Express-REST-API)  
+ 04.[Data-Modeling](https://bpfingston.github.io/reading-notes/Data-Modeling)  
