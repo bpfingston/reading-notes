@@ -23,6 +23,6 @@
     -   Mocks combine the functionality of both spies and stubs, which means that they replace the target function but at the same time provide us with the ability to observe how the function was called.
 
 ### sources
-1.[DynamicModuleLoading](https://en.wikipedia.org/wiki/Dynamic_loading)
-2.[Singleton](https://medium.com/@maheshkumawat_83392/node-js-design-patterns-singleton-pattern-series-1-1e0ab71e3edf)
-3.[Mock Testing](https://devopedia.org/mock-testing)
+1.[DynamicModuleLoading](https://en.wikipedia.org/wiki/Dynamic_loading)  
+2.[Singleton](https://medium.com/@maheshkumawat_83392/node-js-design-patterns-singleton-pattern-series-1-1e0ab71e3edf)  
+3.[Mock Testing](https://devopedia.org/mock-testing)  
