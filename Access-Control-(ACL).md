@@ -18,8 +18,9 @@
 4. secret - provides a mechanism to hold sensitive information such as passwords, OpenShift Container Platform client configuration files, dockercfg files, private source repository credentials, and so on.  
 5. JSON Web Token - JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.  
 
-### sources:
-    1.[Encryption](https://searchsecurity.techtarget.com/definition/encryption) 
-    2.[Token](https://techterms.com/definition/token)  
-    3.[Bearer](https://reqbin.com/req/javascript/h4rnefmw/post-json-with-bearer-token-authorization-header)4.[Secret](https://docs.openshift.com/container-platform/3.7/dev_guide/secrets.html)       
-    5.[JSON Web Token](https://jwt.io/introduction)
+## sources:
+   1.[Encryption](https://searchsecurity.techtarget.com/definition/encryption) 
+   2.[Token](https://techterms.com/definition/token)  
+   3.[Bearer](https://reqbin.com/req/javascript/h4rnefmw/post-json-with-bearer-token-authorization-header)
+   4.[Secret](https://docs.openshift.com/container-platform/3.7/dev_guide/secrets.html)       
+   5.[JSON Web Token](https://jwt.io/introduction)
