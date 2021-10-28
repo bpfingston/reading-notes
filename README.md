@@ -23,3 +23,4 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  04.[Data-Modeling](https://bpfingston.github.io/reading-notes/Data-Modeling)  
  05.[Authentication](https://bpfingston.github.io/reading-notes/Authentication2)  
  06.[Bearer Authorization](https://bpfingston.github.io/reading-notes/Bearer-Authorization)
+ 07.[Access Control (ACL)](https://bpfingston.github.io/reading-notes/Access-Control-(ACL))
