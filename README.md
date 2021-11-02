@@ -25,4 +25,4 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  06.[Bearer Authorization](https://bpfingston.github.io/reading-notes/Bearer-Authorization)  
  07.[Access Control (ACL)](https://bpfingston.github.io/reading-notes/Access-Control-(ACL))  
  08.[Authorization-Authentication](https://bpfingston.github.io/reading-notes/Authorization-Authentication)  
- 09.[Authorization-Authentication](https://bpfingston.github.io/reading-notes/Event-Driven-Applications)  
+ 09.[Event Driven Applications](https://bpfingston.github.io/reading-notes/Event-Driven-Applications)  
