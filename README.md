@@ -26,3 +26,4 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  07.[Access Control (ACL)](https://bpfingston.github.io/reading-notes/Access-Control-(ACL))  
  08.[Authorization-Authentication](https://bpfingston.github.io/reading-notes/Authorization-Authentication)  
  09.[Event Driven Applications](https://bpfingston.github.io/reading-notes/Event-Driven-Applications)  
+ 10.[AWS:Cloud Servers](https://bpfingston.github.io/reading-notes/AWS-Cloud-Servers) 
