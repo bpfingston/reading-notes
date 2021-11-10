@@ -27,4 +27,4 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  08.[Authorization-Authentication](https://bpfingston.github.io/reading-notes/Authorization-Authentication)  
  09.[Event Driven Applications](https://bpfingston.github.io/reading-notes/Event-Driven-Applications)  
  10.[AWS:Cloud Servers](https://bpfingston.github.io/reading-notes/AWS-Cloud-Servers)  
- 11.[AWS: S3 and Lambda](https://bpfingston.github.io/reading-notes/AWS:-S3-and-Lambda)  
+ 11.[AWS:-S3-and-Lambda](https://bpfingston.github.io/reading-notes/AWS:-S3-and-Lambda)  
