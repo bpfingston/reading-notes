@@ -30,3 +30,4 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  11.[AWS: S3 and Lambda](https://bpfingston.github.io/reading-notes/AWS-S3-and-Lambda)  
  12.[AWS: API, Dynamo and Lambda](https://bpfingston.github.io/reading-notes/AWS-API-Dynamo-and-Lambda)  
  13.[AWS: Events](https://bpfingston.github.io/reading-notes/AWS-Events)  
+ 14.[Component Based UI](https://bpfingston.github.io/reading-notes/Component-Based-UI)
