@@ -33,3 +33,4 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  14.[Component Based UI](https://bpfingston.github.io/reading-notes/Component-Based-UI)  
  15.[useState() Hook](https://bpfingston.github.io/reading-notes/useState-Hook)
  16.[Component Lifecycle / useEffect() Hook](https://bpfingston.github.io/reading-notes/CLUH)
+ 17.[Advanced State with Reducers](https://bpfingston.github.io/reading-notes/Advanced-State-with-Reducers)
