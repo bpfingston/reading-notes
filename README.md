@@ -37,3 +37,4 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  18.[Context API](https://bpfingston.github.io/reading-notes/Context-API)  
  19.[Context API - Behaviors](https://bpfingston.github.io/reading-notes/Context-API-Behaviors)  
  20.[<Login /> and <Auth />](https://bpfingston.github.io/reading-notes/Login-and-Auth)  
+ 21.[API Integration](https://bpfingston.github.io/reading-notes/API-Integration)  
