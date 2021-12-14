@@ -40,5 +40,6 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  21.[API Integration](https://bpfingston.github.io/reading-notes/API-Integration)  
  22.[Application State with Redux](https://bpfingston.github.io/reading-notes/Application-State-with-Redux)  
  23.[Redux - Combined Reducers](https://bpfingston.github.io/reading-notes/Redux-Combined_Reducers)  
- 23.[Redux - Asynchronous Actions](https://bpfingston.github.io/reading-notes/Redux-Asynchronous_Actions)  
+ 24.[Redux - Asynchronous Actions](https://bpfingston.github.io/reading-notes/Redux-Asynchronous_Actions)  
+ 25.[Redux - Additional Topics](https://bpfingston.github.io/reading-notes/Redux-Additional_Topics)  
 
