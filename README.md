@@ -42,4 +42,5 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  23.[Redux - Combined Reducers](https://bpfingston.github.io/reading-notes/Redux-Combined_Reducers)  
  24.[Redux - Asynchronous Actions](https://bpfingston.github.io/reading-notes/Redux-Asynchronous_Actions)  
  25.[Redux - Additional Topics](https://bpfingston.github.io/reading-notes/Redux-Additional_Topics)  
+ 26.[React Native](https://bpfingston.github.io/reading-notes/React-Native)  
   
