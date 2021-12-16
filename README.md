@@ -44,4 +44,5 @@ This is for writing down **my** reviews of what I have read, inside of class. Th
  25.[Redux - Additional Topics](https://bpfingston.github.io/reading-notes/Redux-Additional_Topics)  
  26.[React Native](https://bpfingston.github.io/reading-notes/React-Native)  
  27.[Ethics](https://bpfingston.github.io/reading-notes/Ethics)  
+ 29.[OSS](https://bpfingston.github.io/reading-notes/OSS)  
   
